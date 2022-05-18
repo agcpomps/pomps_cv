@@ -1,0 +1,114 @@
+BasicInfo:
+  FirstName: Armindo
+  LastName: Correia
+  Photo: img/pomps.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +244 938 25 24 31
+    - Icon: fas fa-envelope
+      Info: agcpomps@gmail.com
+    - Icon: fas fa-globe
+      Info:
+    - Icon: fas fa-map-marker-alt
+      Info: Angola
+
+Profile: software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs.
+
+Experience:
+  - Employer: GPIST
+    Place: Benguela, Angola
+    Positions:
+      - Title: Software Engineer
+        Date: Jan 2018 - Present
+        Details:
+          - Database system for province infraestruture and buildings
+          - Website and Intranet
+          - Internal Tools and Testing
+        Badges:
+          ["Python", "Django", "React", "Javascript", "SQL", "NGINX", "Agile"]
+  - Employer: Direcção Provincial Energia e Águas
+    Place: Benguela Angola
+    Positions:
+      - Title: Head of Planning Finance and Stats
+        Date: Jan 2015 - Mar 2018
+        Details:
+          - Gis application
+          - Excell worksheets
+          - Data Analisys
+        Badges: ["Python", "Pandas", "Excel", "Matplotlib", "Folium"]
+  - Employer: Gabinete Municipal dos Registos
+    Place: Benguela, Angola
+    Positions:
+      - Title: Helpdesk, Sysadmin
+        Date: Oct 2008 - Jun 2012
+        Details:
+
+Education:
+  - Course: BSc Computer Science
+    Place: ISPB
+    Date: Sep 2012 -
+    Details: Fullstack Developer
+
+References:
+  - Name: Engª Jandira Laura Ribeiro
+    Relation: Boss at GPIST
+    Contacts:
+      - Icon: fas fa-phone
+        Info: +44 123 456 790
+      - Icon: fas fa-envelope
+        Info: contact@person-one.com
+      - Icon: fas fa-map-marker-alt
+        Info: Lobito, Angola
+  - Name: Engº José Luís
+    Relation: Co-Worker GPIST
+    Contacts:
+      - Icon: fas fa-phone
+        Info: +44 123 456 791
+      - Icon: fas fa-envelope
+        Info: contact@person-two.com
+      - Icon: fas fa-map-marker-alt
+        Info: Benguela, Angola
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - GO
+      - Bash
+      - C
+  - Family: Frameworks
+    Items:
+      - Django
+      - FastAPI
+      - NextJs
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Nginx
+  - Family: Misc
+    Items:
+      - Figma
+      - VIM
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+
+Diplomas:
+  - SINFIC  Certification (2007)
+  - English Course
+
+Interests:
+  - Basketbal
+  - Beat Maker
+  - Djing
+  - Bossa Nova
